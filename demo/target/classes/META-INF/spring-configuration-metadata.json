@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.consumer.demo.configuration.WebSocketConfiguration",
+      "name": "p",
+      "type": "com.consumer.demo.configuration.WebSocketConfiguration"
+    }
+  ],
+  "properties": []
+}
